@@ -1,1 +1,9 @@
-# ai-visibility-auditor
+# AI Visibility Auditor MVP
+
+A simple Streamlit app that audits a URL for technical SEO signals and AI visibility basics.
+
+## Run locally
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
